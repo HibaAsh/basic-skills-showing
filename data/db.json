@@ -1,0 +1,7 @@
+{
+    "skills": [
+        { "title": "Machine Learning", "id": 1, "level": "mid-intermediate" },
+        { "title": "Django", "id": 2, "level": "mid-junior" },
+        { "title": "Vue", "id": 3, "level": "junior" }
+    ]
+}
